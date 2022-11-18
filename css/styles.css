@@ -535,6 +535,7 @@ img {
 }
 
 .work-example-link {
+  display: inline-block;
   text-decoration: none;
 }
 
